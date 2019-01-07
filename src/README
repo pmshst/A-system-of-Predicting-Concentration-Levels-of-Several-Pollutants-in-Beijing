@@ -1,0 +1,3 @@
+run just give directory of the data
+
+python main.py /home/MSBD5002PROJECT_data/
